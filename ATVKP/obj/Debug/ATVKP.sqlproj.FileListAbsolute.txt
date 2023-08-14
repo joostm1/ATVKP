@@ -1,0 +1,10 @@
+c:\Users\joost\OneDrive - xyz9\xyz9\Documents\Kloosterpark\ATVKP\ATVKP\ATVKP\bin\Debug\ATVKP.dacpac
+c:\Users\joost\OneDrive - xyz9\xyz9\Documents\Kloosterpark\ATVKP\ATVKP\ATVKP\bin\Debug\ATVKP.dll
+c:\Users\joost\OneDrive - xyz9\xyz9\Documents\Kloosterpark\ATVKP\ATVKP\ATVKP\bin\Debug\ATVKP.pdb
+c:\Users\joost\OneDrive - xyz9\xyz9\Documents\Kloosterpark\ATVKP\ATVKP\ATVKP\obj\Debug\ATVKP.sqlproj.AssemblyReference.cache
+c:\Users\joost\OneDrive - xyz9\xyz9\Documents\Kloosterpark\ATVKP\ATVKP\ATVKP\obj\Debug\Model.xml
+c:\Users\joost\OneDrive - xyz9\xyz9\Documents\Kloosterpark\ATVKP\ATVKP\ATVKP\obj\Debug\refactor.xml
+c:\Users\joost\OneDrive - xyz9\xyz9\Documents\Kloosterpark\ATVKP\ATVKP\ATVKP\obj\Debug\postdeploy.sql
+c:\Users\joost\OneDrive - xyz9\xyz9\Documents\Kloosterpark\ATVKP\ATVKP\ATVKP\obj\Debug\predeploy.sql
+c:\Users\joost\OneDrive - xyz9\xyz9\Documents\Kloosterpark\ATVKP\ATVKP\ATVKP\obj\Debug\ATVKP.dll
+c:\Users\joost\OneDrive - xyz9\xyz9\Documents\Kloosterpark\ATVKP\ATVKP\ATVKP\obj\Debug\ATVKP.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gG17flXI4N31pg0nuISNekM9skPGs5FgBOzR7fF+O3qWyOmcXUpEPkdcVV7qxkbwQBeZbI1BY7DxFYqtm/AuAw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\joost\\OneDrive - xyz9\\xyz9\\Documents\\Kloosterpark\\ATVKP\\ATVKP\\ATVKP\\ATVKP.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joost\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\joost\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
